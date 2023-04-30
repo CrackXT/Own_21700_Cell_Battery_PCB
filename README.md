@@ -21,6 +21,8 @@ Bottom
 Routing/Dimensions(inch)
 ![21700_v2 0](https://user-images.githubusercontent.com/88975406/175762322-fce9d56e-93d3-442d-82fa-4380d3b2f41f.png)
 
+Schematic as .pdf at the top of the page.
+
 # License
 
 Open hardware, use it, mod it, whatever you want, feel free...
