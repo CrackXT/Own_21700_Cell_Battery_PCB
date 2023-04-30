@@ -4,7 +4,7 @@ PCB files for a 21700 cell mount on a separate board
 
 # Description
 
-Compatible with 21700 cell type only!
+Compatible with protected 21700 cell type only!
 
 This is an external battery cell board that allows you to mount the appropriate cell holder (21700) and thus have better connection and mounting options in your project or case.
 
